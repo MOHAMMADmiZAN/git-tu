@@ -1,6 +1,5 @@
- print(“Hello World”)
-  number = 70
-  
+number = 70
+
   if (number >= 70):
     print("You have passed")
 else:
